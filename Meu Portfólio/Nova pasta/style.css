@@ -1,0 +1,144 @@
+h1 {
+ background: #892929 ;
+ text-align: center;
+ font-size: 35px
+}
+
+body {
+  background: repeating-linear-gradient(#104ADA ,#DE3119 );
+  font-family: 'Readex Pro', sans-serif;
+
+}
+
+body p {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    font-size: 45px;
+    margin: auto ;
+    padding: 30px;
+}
+
+header:hover {
+    font-size: 55px;
+
+}
+
+strong {
+    color: red;
+}
+
+ .texto {
+    width: 940px;
+    margin: 0 auto;
+ }
+
+ .eu {
+    width: 170px;
+    float: left;
+    margin: 0 20px 20px 0;
+    opacity: 1;
+    transition: 400ms;
+ }
+
+  .eu:hover {
+    opacity: 0.5;
+ }
+
+.escola {
+    width: 30%;
+    height: 30;
+    margin-left: 490px;
+    opacity: 1;
+    transition: 400ms;
+   
+}
+
+.escola:hover {
+    opacity: 0.5;
+} 
+
+.programador {
+    width: 30%;
+    height: 30;
+    margin-left: 490px;
+
+}
+
+.programador:hover {
+    opacity: 0.5;
+}
+
+.filmes {
+    width: 30%;
+    height: 30;
+    margin-left: 490px;
+
+}
+
+.filmes:hover {
+    opacity: 0.5;
+}
+
+.esportes {
+    width: 30%;
+    height: 30;
+    margin-left: 490px;
+
+}
+
+.esportes:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.qualidade {
+    width: 30%;
+    height: 30;
+    margin-left: 490px;
+    opacity: 1;
+    transition: 400ms;
+   
+}
+
+.qualidade:hover {
+    opacity: 0.5;
+}
+
+.objetivo {
+    width: 30%;
+    height: 30;
+    margin-left: 490px;
+    opacity: 1;
+    transition: 400ms;
+   
+}
+
+.objetivo:hover {
+    opacity: 0.5;
+}
+
+
+.familia {
+    width: 30%;
+    height: 30;
+    margin-left: 490px;
+    opacity: 1;
+    transition: 400ms;
+   
+}
+
+.familia:hover {
+    opacity: 0.5;
+}
+
+
+p {
+    font-size: 25px;
+}
+
+h1:hover {
+   font-size: 40px;
+}
